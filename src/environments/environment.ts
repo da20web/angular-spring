@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,  
-  apiURLBase: 'http://localhost:8080'
-  //apiURLBase: 'https://da20web-spring-boot.herokuapp.com'
+  //apiURLBase: 'http://localhost:8080'
+  apiURLBase: 'https://da20web-spring-boot.herokuapp.com'
 };
 
 /*
